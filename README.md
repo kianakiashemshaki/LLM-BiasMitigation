@@ -34,6 +34,7 @@ The repository contains:
 
 #### Clone the repository:
 git clone https://github.com/kianakiashemshaki/LLM-BiasMitigation.git
+
 cd LLM-BiasMitigation
 
 #### Create and activate a virtual environment:
