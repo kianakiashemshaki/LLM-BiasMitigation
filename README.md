@@ -32,6 +32,8 @@ The repository contains:
 
 ### 🛠️ Installation & Setup
 
+### 🛠️ Installation & Setup
+
 ```bash
 # Clone the repository
 git clone https://github.com/kianakiashemshaki/LLM-BiasMitigation.git
@@ -46,6 +48,7 @@ pip install -r requirements.txt
 
 # Run the main notebook
 jupyter notebook bias_mitigation_simulation.ipynb
+
 
 ---
 
