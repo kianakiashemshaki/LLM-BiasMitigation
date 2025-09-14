@@ -67,7 +67,7 @@ jupyter notebook bias_mitigation_simulation.ipynb
 
 ## 📄 Paper & 📚 Citation
 
-The full research paper is available in this repository:  
+The full research paper is available in:  
 👉 Simulating a Bias Mitigation Scenario in Large Language Models (paper.pdf)
 
 If you use this work in your research, please cite:
