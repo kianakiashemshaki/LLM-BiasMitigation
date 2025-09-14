@@ -47,6 +47,8 @@ pip install -r requirements.txt
 # Run the main notebook
 jupyter notebook bias_mitigation_simulation.ipynb
 
+---
+
 ## 📊 Results (Summary)
 
 | **Task**              | **Method**          | **Accuracy** | **Macro-F1** | **DPD** | **EOD** |
