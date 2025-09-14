@@ -72,11 +72,12 @@ The full research paper is available in:
 
 If you use this work in your research, please cite:
 
+```bibtex
 @article{kiashemshaki2025bias,
   title     = {Simulating a Bias Mitigation Scenario in Large Language Models},
   author    = {Kiashemshaki, Kiana},
   year      = {2025},
-  journal   = {arXiv preprint arXiv:}  
+  journal   = {arXiv preprint arXiv:xxxx.xxxxx}  % update if published
 }
 
 
