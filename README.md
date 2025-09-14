@@ -77,7 +77,7 @@ If you use this work in your research, please cite:
   title     = {Simulating a Bias Mitigation Scenario in Large Language Models},
   author    = {Kiashemshaki, Kiana},
   year      = {2025},
-  journal   = {arXiv preprint arXiv:  
+  journal   = {arXiv preprint arXiv:}  
 }
 
 
