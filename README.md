@@ -32,18 +32,18 @@ The repository contains:
 
 ### 🛠️ Installation & Setup
 
-# Clone the repository
+#### Clone the repository
 git clone https://github.com/kianakiashemshaki/LLM-BiasMitigation.git
 cd LLM-BiasMitigation
 
-# Create and activate a virtual environment
+#### Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-# Install dependencies
+#### Install dependencies
 pip install -r requirements.txt
 
-# Run the main notebook
+#### Run the main notebook
 jupyter notebook bias_mitigation_simulation.ipynb
 
 
