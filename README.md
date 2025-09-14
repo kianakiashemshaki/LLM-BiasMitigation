@@ -32,9 +32,6 @@ The repository contains:
 
 ### 🛠️ Installation & Setup
 
-### 🛠️ Installation & Setup
-
-```bash
 # Clone the repository
 git clone https://github.com/kianakiashemshaki/LLM-BiasMitigation.git
 cd LLM-BiasMitigation
@@ -65,12 +62,15 @@ jupyter notebook bias_mitigation_simulation.ipynb
 |                       | Class Weighting     | 0.937        | 0.929        | 0.55    | 0.58    |
 |                       | Equalized Odds      | 0.933        | 0.925        | 0.40    | 0.43    |
 
+---
+
 ## 📄 Paper & 📚 Citation
 
-The full research paper is available in this:  
-👉 [Simulating a Bias Mitigation Scenario in Large Language Models](paper.pdf)
+The full research paper is available in this repository:  
+👉 Simulating a Bias Mitigation Scenario in Large Language Models (paper.pdf)
 
 If you use this work in your research, please cite:
+
 @article{kiashemshaki2025bias,
   title={Simulating a Bias Mitigation Scenario in Large Language Models},
   author={Kiashemshaki, Kiana},
