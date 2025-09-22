@@ -69,16 +69,18 @@ jupyter notebook bias_mitigation_simulation.ipynb
 ## 📄 Paper & 📚 Citation
 
 The full research paper is available in:  
-👉 Simulating a Bias Mitigation Scenario in Large Language Models 
+👉 [Simulating a Bias Mitigation Scenario in Large Language Models](https://arxiv.org/abs/2509.14438)
+
 
 If you use this work in your research, please cite:
 
 ```bibtex
 @article{kiashemshaki2025bias,
-  title     = {Simulating a Bias Mitigation Scenario in Large Language Models},
-  author    = {Kiashemshaki, Kiana},
-  year      = {2025},
-  journal   = {arXiv preprint arXiv:}  
+  title   = {Simulating a Bias Mitigation Scenario in Large Language Models},
+  author  = {Kiana Kiashemshaki and Mohammad Jalili Torkamani and Negin Mahmoudi and Meysam Shirdel Bilehsavar},
+  journal = {arXiv preprint arXiv:2509.14438},
+  year    = {2025},
+  url     = {https://arxiv.org/abs/2509.14438}
 }
 
 
